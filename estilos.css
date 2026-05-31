@@ -33,7 +33,7 @@ section {
    background-color: white;
    margin: 30px;
    border-radius: 20px;
-   box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+   box-shadow: 0px 4px 10px rgba(0,0,0,0.2)
 }
 h1 {
    color: #b30059;
@@ -70,4 +70,12 @@ footer {
 footer p {
    color: white;
    font-size: 18px;
+nav {
+    background-color: #333;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Georgia', serif;
+    margin: 10px;
 }
